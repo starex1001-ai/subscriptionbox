@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "구독정리함",
+  "brand": "SUBSCRIPTIONBOX",
+  "mark": "SU",
+  "worker": "subscriptionbox",
+  "url": "https://subscriptionbox.webnote-lab.workers.dev",
+  "description": "구독정리함의 정보와 실용 가이드를 정리합니다.",
+  "tagline": "구독정리함, 차근차근 알아보기",
+  "categories": [
+    {
+      "description": "구독정리함의 정보와 실용 가이드를 정리합니다.",
+      "name": "구독정리함",
+      "slug": "subscriptionbox"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/subscriptionbox/issues"
+}
